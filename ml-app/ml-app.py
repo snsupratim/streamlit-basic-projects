@@ -72,7 +72,7 @@ def build_model(df):
 st.write("""
 # The Machine Learning App
 
-In this implementation, the *RandomForestRegressor()* function is used in this app to build a regression model using the **Random Forest** algorithm.
+Here , the *RandomForestRegressor()* function is used in this app to build a regression model using the **Random Forest** algorithm.
 
 Try adjusting the hyperparameters!
 """)
